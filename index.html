@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Play Game</title>
+  <style>
+    :root {
+      --footer-height: 80px; 
+    }
+
+    html, body {
+      height: 100%;
+      margin: 0;
+      overflow: hidden; 
+      background: #000; 
+      color: #eee;
+      font-family: system-ui, sans-serif;
+    }
+
+    body {
+  color: white; 
+}
+
+a {
+  color: #4da6ff;
+  text-decoration: none; 
+}
+
+a:hover {
+  color: #80c1ff;
+}
+
+    .app {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .game-frame {
+      flex: 1;
+      height: 100%;
+      border: none;
+    }
+
+    footer {
+      height: var(--footer-height);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background: #111;
+      border-top: 1px solid #222;
+      padding: 6px;
+    }
+
+    .footer-line {
+      margin: 4px 0;
+    }
+
+    .download-btn {
+      display: inline-block;
+      margin-top: 4px;
+      padding: 6px 12px;
+      border-radius: 6px;
+      background: #222;
+      color: #eee;
+      text-decoration: none;
+      border: 1px solid #333;
+      transition: background 0.2s;
+    }
+
+    .download-btn:hover {
+      background: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <iframe
+      class="game-frame"
+      src="game.html"
+      title="Game"
+      allowfullscreen
+      sandbox="allow-forms allow-scripts allow-same-origin allow-pointer-lock allow-popups"
+    ></iframe>
+
+    <footer>
+      <div class="footer-line">Computer only | <a href="https://scratch.mit.edu/projects/963768137/">Created on Scratch</a></div>
+      <div class="footer-line">
+        <a class="download-btn" href="game.zip" download="game.zip">Download game.zip</a>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

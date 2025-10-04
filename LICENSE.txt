@@ -1,0 +1,5 @@
+Permission is granted to play the game and share its official GitHub link for non-commercial, personal enjoyment.
+
+Redistribution, reproduction, uploading, or sharing of any part of the game files or code (in whole or in part) is strictly prohibited without express written permission from the copyright holder.
+
+Modifications, forks, or derivative works may not be created or distributed unless prior written approval is obtained.
