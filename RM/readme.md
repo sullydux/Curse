@@ -34,23 +34,41 @@ This game supports controllers based on Turbowarp's [Gamepad Support Extension](
 
 **Controller Buttons:**
 - A — 1, Sets current item to first slot
+
 - B — 2, Sets current item to second slot
+
 - X — 3, Sets current item to third slot
+
 - Y — 4, Moves item to backpack or equips armor and shield
+
 - Left Bumper (LB) — E, Open and closes inventory
+
 - Right Bumper (RB) — 0, Shows FPS(how fast code, not frames per second) 
+
 - Left Trigger (LT) — Space, Many operations
+
 - Right Trigger (RT) — Click, Many operations
+
 - Left Stick - WASD, Move
+
 - Right Stick - Cursor, Aim and interact
+
 - Left Stick (Press) — E, Secondary
+
 - Right Stick (Press) — Click, Secondary
+
 - D-Pad Up — Up Arrow, Secondary move
+
 - D-Pad Down — Down Arrow, Secondary move
+
 - D-Pad Left — Left Arrow, Secondary move and volume control(see a help menu in game)
+
 - D-Pad Right — Right Arrow, Secondary move and volume control(see a help menu in game)
+
 - View Button (⧉ icon)- R, Takes to reset game screen
+
 - Menu Button (☰ icon)- Enter, Accepts stuff
+
 
 ---
 
