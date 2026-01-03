@@ -35,13 +35,25 @@ a:hover {
     .app {
       display: flex;
       flex-direction: column;
-      height: 100%;
+      height: 90%;
     }
 
     .game-frame {
       flex: 1;
       height: 100%;
       border: none;
+    }
+
+    header {
+      height: var(--footer-height);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background: #111;
+      border-top: 1px solid #222;
+      padding: 6px;
     }
 
     footer {
@@ -78,6 +90,13 @@ a:hover {
   </style>
 </head>
 <body>
+
+
+  <header>
+    <h1>Curse of the Forsaken Isle</h1>
+    </header>
+
+
   <div class="app">
     <iframe
       class="game-frame"
@@ -88,7 +107,7 @@ a:hover {
     ></iframe>
 
     <footer>
-      <div class="footer-line">Version 2.17.49  |  <a href="https://forms.gle/juuJmwzEAf9mGriW6">Rate the Game</a> | Computer, PC, & Controller | <a href="https://scratch.mit.edu/projects/963768137/">Created on Scratch</a></div>
+      <div class="footer-line"> <a href="https://github.com/sullydux/Curse?tab=readme-ov-file#curse-of-the-forsaken-isle">Read Me</a> | Version 2.17.49  |  <a href="https://forms.gle/juuJmwzEAf9mGriW6">Rate the Game</a> | Computer, PC, & <a href="https://github.com/sullydux/Curse?tab=readme-ov-file#controller-support">Controller</a> | <a href="https://scratch.mit.edu/projects/963768137/">Created on Scratch</a></div>
       <div class="footer-line">
         <a class="download-btn" href="game.zip" download="game.zip">Download Game</a>
       </div>
