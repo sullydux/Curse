@@ -26,29 +26,31 @@ The inventory also features an “On Website” switch, which you should press i
 
 ---
 
-## Controller Support   (Not in game yet)
+## Controller Support
 
 This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). The controller configuration is listed below and is not changeable. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
 
 ![Controller Configuration](config.png)
 
 **Controller Buttons:**
-- A —
-- B —
-- X —
-- Y —
-- Left Bumper (LB) —
-- Right Bumper (RB) —
-- Left Trigger (LT) —
-- Right Trigger (RT) —
-- Left Stick -
-- Right Stick -
-- Left Stick (Press) —
-- Right Stick (Press) —
-- D-Pad Up —
-- D-Pad Down —
-- D-Pad Left —
-- D-Pad Right —
+- A — 1, Sets current item to first slot
+- B — 2, Sets current item to second slot
+- X — 3, Sets current item to third slot
+- Y — 4, Moves item to backpack or equips armor and shield
+- Left Bumper (LB) — E, Open and closes inventory
+- Right Bumper (RB) — 0, Shows FPS(how fast code, not frames per second) 
+- Left Trigger (LT) — Space, Many operations
+- Right Trigger (RT) — Click, Many operations
+- Left Stick - WASD, Move
+- Right Stick - Cursor, Aim and interact
+- Left Stick (Press) — E, Secondary
+- Right Stick (Press) — Click, Secondary
+- D-Pad Up — Up Arrow, Secondary move
+- D-Pad Down — Down Arrow, Secondary move
+- D-Pad Left — Left Arrow, Secondary move and volume control(see a help menu in game)
+- D-Pad Right — Right Arrow, Secondary move and volume control(see a help menu in game)
+- View Button (⧉ icon)- R, Takes to reset game screen
+- Menu Button (☰ icon)- Enter, Accepts stuff
 
 ---
 
