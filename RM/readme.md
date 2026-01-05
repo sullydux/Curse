@@ -14,15 +14,15 @@ To get started, wait for the game to load, then press the green flag in the top 
 
 ## Notes on Saving Game on Scratch and Turbowarp
 
-This game can be saved on all playing platforms. It saves automatically every three minutes. When you download your save, you get a string of numbers in your copy & paste clipboard. Place it into a list, document, sticky note, or wherever you like. The game does not internally reload save data, so you have to paste the save back into the game.
+It saves automatically every three minutes or you can press P to save(20 second cooldown between manual saves). When you download your save, you get a string of numbers in your copy & paste clipboard. Place it into a list, document, sticky note, or wherever you like. The game does not internally reload save data, so you have to paste the save back into the game.
 
 ---
 
-## Notes on Saving Game on the Website
+## Notes on Saving Game on the Website and Download From the Website
 
-The game saves automatically every 90 seconds. When you download your save, you get a string of numbers in your copy & paste clipboard. Place it into a list, document, sticky note, or wherever you like. The game does not internally reload save data, so you have to paste the save back into the game.
+It saves automatically every one and a half minutes or you can press P to save(20 second cooldown between manual saves). When you download your save, you get a string of numbers in your copy & paste clipboard. Place it into a list, document, sticky note, or wherever you like. The game does not internally reload save data, so you have to paste the save back into the game.
 
-The inventory also features an “On Website” switch, which you should press if you are on the GitHub-hosted website. This makes every save go to local storage in your browser so you don’t have to place the save data in a list. To reload the data after closing and reopening the tab, you have to start the game and go into the inventory menu. Next, turn the “On Website” switch to “☑️” and the game will load any save data stored.
+When the game saves the sava data goes to local storage in your browser so you don’t have to place the save data in a list. When you close and reopen the tab, the game will load any save data stored. If you hit reset in the game your save will be reset also. If you change browser or device your save data will not transfer. If you clear site/browsing data your save will be lost.
 
 ---
 
@@ -30,7 +30,7 @@ The inventory also features an “On Website” switch, which you should press i
 
 This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). The controller configuration is listed below and is not changeable. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
 
-![Controller Configuration](config.png)
+![Controller Configuration](RM/config.png)
 
 **Controller Buttons:**
 - A — 1, Sets current item to first slot
@@ -43,7 +43,7 @@ This game supports controllers based on Turbowarp's [Gamepad Support Extension](
 
 - Left Bumper (LB) — E, Open and closes inventory
 
-- Right Bumper (RB) — 0, Shows FPS(how fast code, not frames per second) 
+- Right Bumper (RB) — P, Manually saves the game(20 second cool down)
 
 - Left Trigger (LT) — Space, Many operations
 
