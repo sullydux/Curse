@@ -99,21 +99,36 @@
 <body>
   <main id="content">Loading markdown…</main>
 
-  <script>
-    // Change this to the markdown file you want to display
-    const MARKDOWN_FILE = "readme.md";
+<script>
+  const MARKDOWN_FILE = "readme.md";
 
-    fetch(MARKDOWN_FILE)
-      .then(res => {
-        if (!res.ok) throw new Error("Failed to load markdown");
-        return res.text();
-      })
-      .then(md => {
-        document.getElementById("content").innerHTML = marked.parse(md);
-      })
-      .catch(err => {
-        document.getElementById("content").innerHTML = `<p style="color:#ff6b6b">${err.message}</p>`;
-      });
-  </script>
+  const renderer = new marked.Renderer();
+
+  renderer.heading = (text, level) => {
+    // Match optional {#id} at the end of a heading
+    const match = text.match(/^(.*?)(?:\s*\{#([\w\-]+)\})?$/);
+    const cleanText = match[1];
+    const id = match[2] || cleanText
+      .toLowerCase()
+      .replace(/[^\w]+/g, "-")
+      .replace(/^-|-$/g, "");
+
+    return `<h${level} id="${id}">${cleanText}</h${level}>`;
+  };
+
+  fetch(MARKDOWN_FILE)
+    .then(res => {
+      if (!res.ok) throw new Error("Failed to load markdown");
+      return res.text();
+    })
+    .then(md => {
+      document.getElementById("content").innerHTML =
+        marked.parse(md, { renderer });
+    })
+    .catch(err => {
+      document.getElementById("content").innerHTML =
+        `<p style="color:#ff6b6b">${err.message}</p>`;
+    });
+</script>
 </body>
 </html>
