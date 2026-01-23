@@ -102,18 +102,20 @@
 <script>
   const MARKDOWN_FILE = "readme.md";
 
-  const renderer = new marked.Renderer();
+  const renderer = {
+    heading(token) {
+      const raw = token.text;
 
-  renderer.heading = (text, level) => {
-    // Match optional {#id} at the end of a heading
-    const match = text.match(/^(.*?)(?:\s*\{#([\w\-]+)\})?$/);
-    const cleanText = match[1];
-    const id = match[2] || cleanText
-      .toLowerCase()
-      .replace(/[^\w]+/g, "-")
-      .replace(/^-|-$/g, "");
+      // Match optional {#id}
+      const match = raw.match(/^(.*?)(?:\s*\{#([\w\-]+)\})?$/);
+      const cleanText = match[1];
+      const id = match[2] || cleanText
+        .toLowerCase()
+        .replace(/[^\w]+/g, "-")
+        .replace(/^-|-$/g, "");
 
-    return `<h${level} id="${id}">${cleanText}</h${level}>`;
+      return `<h${token.depth} id="${id}">${cleanText}</h${token.depth}>`;
+    }
   };
 
   fetch(MARKDOWN_FILE)
