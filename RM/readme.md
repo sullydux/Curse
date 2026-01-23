@@ -26,7 +26,7 @@ When the game saves the sava data goes to local storage in your browser so you d
 
 ---
 
-## Controller Support
+## Controller Support {#controller-support}
 
 This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). The controller configuration is listed below and is not changeable. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
 
