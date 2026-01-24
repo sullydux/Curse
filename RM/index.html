@@ -87,13 +87,13 @@
       border-top: 1px solid #333;
       margin: 2rem 0;
     }
-      img {
+
+    img {
       max-width: 75%;
       height: auto;
       display: block;
       margin: 1.5rem auto;
     }
-
   </style>
 </head>
 <body>
@@ -124,13 +124,31 @@
       return res.text();
     })
     .then(md => {
-      document.getElementById("content").innerHTML =
-        marked.parse(md, { renderer });
+      const content = document.getElementById("content");
+      content.innerHTML = marked.parse(md, { renderer });
+
+      /* 🔹 NEW PART: fix hash jump on first load */
+      const hash = decodeURIComponent(window.location.hash.slice(1));
+      if (hash) {
+        const target = document.getElementById(hash);
+        if (target) {
+          target.scrollIntoView({ behavior: "smooth" });
+        }
+      }
     })
     .catch(err => {
       document.getElementById("content").innerHTML =
         `<p style="color:#ff6b6b">${err.message}</p>`;
     });
+
+  /* 🔹 Optional but recommended: handle future hash changes */
+  window.addEventListener("hashchange", () => {
+    const hash = decodeURIComponent(location.hash.slice(1));
+    const target = document.getElementById(hash);
+    if (target) {
+      target.scrollIntoView({ behavior: "smooth" });
+    }
+  });
 </script>
 </body>
 </html>
