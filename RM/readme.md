@@ -23,13 +23,13 @@ It saves automatically every three minutes or you can press P to save(20 second 
 
 It saves automatically every one and a half minutes or you can press P to save(20 second cooldown between manual saves). When you download your save, you get a string of numbers in your copy & paste clipboard. Place it into a list, document, sticky note, or wherever you like. The game does not internally reload save data, so you have to paste the save back into the game.
 
-When the game saves the sava data goes to local storage in your browser so you don’t have to place the save data in a list. When you close and reopen the tab, the game will load any save data stored. If you hit reset in the game your save will be reset also. If you change browser or device your save data will not transfer. If you clear site/browsing data your save will be lost.
+When the game saves the save data goes to local storage in your browser so you don’t have to place the save data in a list. When you close and reopen the tab, the game will load any save data stored. If you hit reset in the game your save will be reset also. If you change browser or device your save data will not transfer. If you clear site/browsing data your save will be lost.
 
 ---
 
 ## Controller Support {#controller-support}
 
-This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). The controller configuration is listed below and is not changeable. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
+This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). To connect a controller to the game either plug it in to a USB port or use bluetooth to connect, then interact with the game and it will be able to detect the controller. The controller configuration is listed below and is not changeable. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
 
 ![Controller Configuration](config.png)
 
