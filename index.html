@@ -7,111 +7,183 @@
   <link rel="icon" type="image/png" href="Icon.png">
   <style>
     :root {
-      --footer-height: 80px; 
+      --bg-1: #060708;
+      --bg-2: #0f1218;
+      --panel: rgba(15, 18, 24, 0.88);
+      --line: #262b35;
+      --text: #e9ecf1;
+      --muted: #9fa8bb;
+      --link: #75b7ff;
+      --link-hover: #a5d1ff;
+      --accent-1: #4d87ff;
+      --accent-2: #6f59d9;
+      --header-height: 84px;
     }
 
     html, body {
       height: 100%;
       margin: 0;
-      overflow: hidden; 
-      background: #000; 
-      color: #eee;
-      font-family: system-ui, sans-serif;
+      background:
+        radial-gradient(circle at 20% 0%, #1c2433 0%, transparent 45%),
+        radial-gradient(circle at 80% 100%, #1a1b2c 0%, transparent 40%),
+        linear-gradient(180deg, var(--bg-2), var(--bg-1));
+      color: var(--text);
+      font-family: "Trebuchet MS", "Segoe UI", Verdana, sans-serif;
     }
 
     body {
-  color: white; 
-}
-
-a {
-  color: #4da6ff;
-  text-decoration: none; 
-}
-
-a:hover {
-  color: #80c1ff;
-}
-
-    .app {
-      display: flex;
-      flex-direction: column;
-      height: 90%;
+      min-height: 100svh;
     }
 
-    .game-frame {
-      flex: 1;
-      height: 100%;
-      border: none;
+    a {
+      color: var(--link);
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: var(--link-hover);
+    }
+
+    a:focus-visible,
+    .download-btn:focus-visible {
+      outline: 2px solid #b8d8ff;
+      outline-offset: 2px;
+      border-radius: 8px;
+    }
+
+    .shell {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      min-height: 100svh;
     }
 
     header {
-      height: var(--footer-height);
+      height: var(--header-height);
       display: flex;
-      flex-direction: column;
       align-items: center;
       justify-content: center;
       text-align: center;
-      background: #111;
-      border-top: 1px solid #222;
-      padding: 6px;
+      background: var(--panel);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(8px);
+      padding: 0 12px;
+      box-sizing: border-box;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.05rem, 2vw, 1.4rem);
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      font-weight: 700;
+      text-shadow: 0 2px 12px rgba(0, 0, 0, 0.55);
+    }
+
+    .game-wrap {
+      min-height: 0;
+      background: #07090e;
+      border-top: 1px solid #10141c;
+      border-bottom: 1px solid #10141c;
+    }
+
+    .game-frame {
+      width: 100%;
+      height: 100%;
+      border: 0;
+      display: block;
     }
 
     footer {
-      height: var(--footer-height);
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       text-align: center;
-      background: #111;
-      border-top: 1px solid #222;
-      padding: 6px;
+      gap: 8px;
+      background: var(--panel);
+      border-top: 1px solid var(--line);
+      padding: 10px 12px max(10px, env(safe-area-inset-bottom));
+      box-sizing: border-box;
     }
 
     .footer-line {
-      margin: 4px 0;
+      margin: 0;
+      font-size: 0.86rem;
+      line-height: 1.35;
+      color: var(--muted);
+      max-width: 1200px;
     }
 
     .download-btn {
       display: inline-block;
-      margin-top: 4px;
-      padding: 6px 12px;
-      border-radius: 6px;
-      background: #222;
-      color: #eee;
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+      color: #fff;
+      font-weight: 700;
+      letter-spacing: 0.02em;
       text-decoration: none;
-      border: 1px solid #333;
-      transition: background 0.2s;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      box-shadow: 0 8px 20px rgba(12, 18, 36, 0.45);
+      transition: transform 0.2s ease, filter 0.2s ease;
     }
 
     .download-btn:hover {
-      background: #333;
+      transform: translateY(-1px);
+      filter: brightness(1.08);
+    }
+
+    @media (max-width: 900px) {
+      .footer-line {
+        font-size: 0.8rem;
+      }
+    }
+
+    @media (max-width: 640px) {
+      header {
+        height: 74px;
+      }
+
+      footer {
+        gap: 7px;
+        padding-top: 9px;
+      }
     }
   </style>
 </head>
 <body>
-
-
-  <header>
-    <h1>Curse of the Forsaken Isle</h1>
+  <main class="shell">
+    <header>
+      <h1>Curse of the Forsaken Isle</h1>
     </header>
 
-
-  <div class="app">
-    <iframe
-      class="game-frame"
-      src="game.html"
-      title="Game"
-      allowfullscreen
-      sandbox="allow-forms allow-scripts allow-same-origin allow-pointer-lock allow-popups"
-    ></iframe>
+    <section class="game-wrap" aria-label="Game container">
+      <iframe
+        class="game-frame"
+        src="game.html"
+        title="Curse of the Forsaken Isle Game"
+        allowfullscreen
+        sandbox="allow-forms allow-scripts allow-same-origin allow-pointer-lock allow-popups"
+      >
+        Your browser does not support embedded content. You can open
+        <a href="game.html">game.html</a> directly.
+      </iframe>
+    </section>
 
     <footer>
-      <div class="footer-line"> <a href="https://sullydux.github.io/Curse/RM" target="_blank">Read Me</a> | Version 2.17.54  |  <a href="https://forms.gle/juuJmwzEAf9mGriW6" target="_blank">Rate the Game</a> | Computer, PC, & <a href="https://sullydux.github.io/Curse/RM/#controller-support" target="_blank">Controller</a> | <a href="https://scratch.mit.edu/projects/963768137/" target="_blank">Created on Scratch</a></div>
+      <div class="footer-line">
+        <a href="https://sullydux.github.io/Curse/RM" target="_blank" rel="noopener noreferrer">Read Me</a>
+        | Version 2.17.54 |
+        <a href="https://forms.gle/juuJmwzEAf9mGriW6" target="_blank" rel="noopener noreferrer">Rate the Game</a>
+        | Computer, PC, &
+        <a href="https://sullydux.github.io/Curse/RM/#controller-support" target="_blank" rel="noopener noreferrer">Controller</a>
+        |
+        <a href="https://scratch.mit.edu/projects/963768137/" target="_blank" rel="noopener noreferrer">Created on Scratch</a>
+      </div>
       <div class="footer-line">
         <a class="download-btn" href="game.zip" download="game.zip">Download Game</a>
       </div>
     </footer>
-  </div>
+  </main>
 </body>
 </html>
