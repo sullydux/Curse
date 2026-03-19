@@ -271,7 +271,7 @@
     <footer>
       <div class="footer-line">
         <a href="https://sullydux.github.io/Curse/RM" target="_blank" rel="noopener noreferrer">Read Me</a>
-        | Version 2.17.54 |
+        | Version <span id="version-text">Loading...</span> |
         Computer, PC, &
         <a href="https://sullydux.github.io/Curse/RM/#controller-support" target="_blank" rel="noopener noreferrer">Controller</a>
         |
@@ -283,5 +283,23 @@
       </div>
     </footer>
   </main>
+  <script>
+    const versionElement = document.getElementById("version-text");
+
+    fetch("Version.txt")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Failed to load version");
+        }
+
+        return response.text();
+      })
+      .then((version) => {
+        versionElement.textContent = version.trim() || "Unknown";
+      })
+      .catch(() => {
+        versionElement.textContent = "Unknown";
+      });
+  </script>
 </body>
 </html>

@@ -20,9 +20,9 @@ It saves automatically every three minutes or you can press P to save(20 second 
 
 ## Notes on Saving Game on the Website and Download From the Website
 
-It saves automatically every one and a half minutes or you can press P to save(20 second cooldown between manual saves). When you download your save, you get a string of numbers in your copy & paste clipboard. Place it into a list, document, sticky note, or wherever you like. The game does not internally reload save data, so you have to paste the save back into the game.
+On the downloaded version from the website, the game saves automatically every one and a half minutes, or you can press P to save manually (20-second cooldown between manual saves). When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game.
 
-When the game saves the sava data goes to local storage in your browser so you don’t have to place the save data in a list. When you close and reopen the tab, the game will load any save data stored. If you hit reset in the game your save will be reset also. If you change browser or device your save data will not transfer. If you clear site/browsing data your save will be lost.
+When the game saves, the save data goes to local storage in your browser, so you do not have to place the save data in a list, unless you want the safety of that. When you close and reopen the tab, the game will load any stored save data. If you hit reset in the game, your save will also be reset. If you change browsers or devices, your save data WILL NOT transfer. If you clear site data or browsing data, your save WILL BE lost.
 
 ---
 
@@ -90,4 +90,3 @@ This game supports controllers based on Turbowarp's [Gamepad Support Extension](
 This project is licensed under the terms found here:
 
 [View License](https://sullydux.github.io/Curse/LICENSE.txt)
-

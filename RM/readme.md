@@ -3,7 +3,6 @@
 Step into a vibrant pixel-art world of adventure, mystery, and danger. Battle powerful bosses, face off against formidable enemies, and befriend unique characters as you explore diverse environments. Delve into hidden caves, uncover ancient secrets, and solve intriguing mysteries. With a rich, immersive world teeming with animals and challenges, your journey will test your skills, wit, and courage at every turn. Will you uncover the truth and conquer the unknown?
 
 **Official Website:** https://sullydux.github.io/Curse/
-**Official Scratch Website:** https://scratch.mit.edu/projects/963768137/
 
 ---
 
@@ -21,17 +20,17 @@ It saves automatically every three minutes or you can press P to save(20 second 
 
 ## Notes on Saving Game on the Website and Download From the Website
 
-It saves automatically every one and a half minutes or you can press P to save(20 second cooldown between manual saves). When you download your save, you get a string of numbers in your copy & paste clipboard. Place it into a list, document, sticky note, or wherever you like. The game does not internally reload save data, so you have to paste the save back into the game.
+On the downloaded version from the website, the game saves automatically every one and a half minutes, or you can press P to save manually (20-second cooldown between manual saves). When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game.
 
-When the game saves the save data goes to local storage in your browser so you don’t have to place the save data in a list. When you close and reopen the tab, the game will load any save data stored. If you hit reset in the game your save will be reset also. If you change browser or device your save data will not transfer. If you clear site/browsing data your save will be lost.
+When the game saves, the save data goes to local storage in your browser, so you do not have to place the save data in a list, unless you want the safety of that. When you close and reopen the tab, the game will load any stored save data. If you hit reset in the game, your save will also be reset. If you change browsers or devices, your save data WILL NOT transfer. If you clear site data or browsing data, your save WILL BE lost.
 
 ---
 
-## Controller Support {#controller-support}
+## Controller Support
 
-This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). To connect a controller to the game either plug it in to a USB port or use bluetooth to connect, then interact with the game and it will be able to detect the controller. The controller configuration is listed below and is not changeable. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
+This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). The controller configuration is listed below and is not changeable. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
 
-![Controller Configuration](config.png)
+![Controller Configuration](RM/config.png)
 
 **Controller Buttons:**
 - A — 1, Sets current item to first slot
@@ -91,4 +90,3 @@ This game supports controllers based on Turbowarp's [Gamepad Support Extension](
 This project is licensed under the terms found here:
 
 [View License](https://sullydux.github.io/Curse/LICENSE.txt)
-
