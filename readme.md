@@ -82,6 +82,7 @@ This game supports controllers based on Turbowarp's [Gamepad Support Extension](
 - 'Raining Village - Video Game Theme' on pixabay — Village music
 - 'Fast Paced Boss Battle' on pixabay — Boss fight music
 - 'Dragon Roar) High intensity' on pixabay.com — Basaltor's roar
+-  Some code was created with AI assistance
 
 ---
 
