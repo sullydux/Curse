@@ -4,7 +4,7 @@ Step into a vibrant pixel-art world of adventure, mystery, and danger. Battle po
 
 **Official Website:** https://sullydux.github.io/Curse/
 
-**Developer:** [sullydux](https://github.com/sullydux)
+**Developer:** [Sullydux](https://github.com/sullydux)
 ---
 
 ## How to Get Started
