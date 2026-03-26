@@ -19,8 +19,8 @@
 
 <!-- For search engines -->
   <meta name="description"
-        content="Step into a vibrant pixel-art world of adventure, mystery, and danger. Battle powerful bosses, explore diverse environments, and uncover ancient secrets on a cursed island.">
-<meta name="author" content="Sullydux">
+        content="Step into a vibrant pixel-art world of adventure, mystery, and danger. Battle powerful bosses, face off against formidable enemies, and befriend unique characters as you explore diverse environments. Delve into hidden caves, uncover ancient secrets, and solve intriguing mysteries. With a rich, immersive world teeming with animals and challenges, your journey will test your skills, wit, and courage at every turn. Will you uncover the truth and conquer the unknown?">
+  <meta name="author" content="Sullydux">
   <meta name="keywords"
         content="Curse of the Forsaken Isle,
                  Curse game,
@@ -54,11 +54,8 @@
                  quest game,
                  single-player RPG,
                  retro pixel art">
-
   <meta name="robots" content="index,follow">
-
   <link rel="canonical" href="https://sullydux.github.io/Curse/">
-
 
 
   <link rel="icon" type="image/png" href="Icon.png">
@@ -77,6 +74,7 @@
       --link-hover: #a5d1ff;
       --accent-1: #2d7fff;
       --accent-2: #49b0ff;
+      --title-icon-size: 4rem;
     }
 
     html, body {
@@ -146,6 +144,20 @@
 
     .title-summary::-webkit-details-marker {
       display: none;
+    }
+
+    .title-brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .title-icon {
+      width: var(--title-icon-size);
+      height: var(--title-icon-size);
+      flex: 0 0 auto;
+      image-rendering: pixelated;
     }
 
     h1 {
@@ -279,6 +291,10 @@
         gap: 8px;
       }
 
+      .title-brand {
+        gap: 8px;
+      }
+
       .title-toggle {
         width: 30px;
         height: 30px;
@@ -302,7 +318,10 @@
     <header>
       <details class="title-dropdown">
         <summary class="title-summary">
-          <h1>Curse of the Forsaken Isle</h1>
+          <span class="title-brand">
+            <img class="title-icon" src="Icon.png" alt=" ">
+            <h1>Curse of the Forsaken Isle</h1>
+          </span>
           <span class="title-toggle" aria-hidden="true"></span>
         </summary>
         <div class="title-panel">
@@ -327,10 +346,10 @@
 
     <footer>
       <div class="footer-line">
-        <a href="https://sullydux.github.io/Curse/RM" target="_blank" rel="noopener noreferrer">Read Me</a>
+        <a href="RM/" target="_blank" rel="noopener noreferrer">Read Me</a>
         | Version <span id="version-text">Loading...</span> |
         Computer, PC, &
-        <a href="https://sullydux.github.io/Curse/RM/#controller-support" target="_blank" rel="noopener noreferrer">Controller</a>
+        <a href="RM/#controller-support" target="_blank" rel="noopener noreferrer">Controller</a>
         |
         <a href="https://scratch.mit.edu/projects/963768137/" target="_blank" rel="noopener noreferrer">Created on Scratch</a>
         |
