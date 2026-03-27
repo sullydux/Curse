@@ -1,5 +1,6 @@
 As of Nov 26, 2025
 
+
 Permission is granted to play the game and to share its official GitHub, Turbowarp, or Scratch link for non-commercial, personal enjoyment.
 
 
@@ -13,3 +14,8 @@ Scratch remixes are allowed under the following conditions:
 
 The original Scratch version, available at:
 https://scratch.mit.edu/projects/963768137/
+The website version, available at:
+https://sullydux.github.io/Curse/
+
+
+March 27th, 2026, the name changed from Curse of the Forsaken Isle to Forsaken Legends: Cursed Isle
