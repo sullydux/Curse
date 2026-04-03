@@ -87,8 +87,11 @@ This game supports controllers based on Turbowarp's [Gamepad Support Extension](
 
 ---
 
-## License
+## Legal
 
 This project is licensed under the terms found here:
 
 [View License](https://sullydux.github.io/Curse/LICENSE.txt)
+
+
+March 27th, 2026, the name changed from Curse of the Forsaken Isle to Forsaken Legends: Cursed Isle
