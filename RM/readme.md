@@ -10,7 +10,7 @@ Step into a vibrant pixel-art world of adventure, mystery, and danger. Battle po
 
 ## How to Get Started
 
-To get started, wait for the game to load, then press the green flag in the top left. After you press that, it will show a backstory for your character, which you can dismiss by pressing anywhere on the message. Now you are in the game and can play freely. For full control and help guides, press E or I to open the inventory. With the inventory open, you can hover your mouse over the two clipboards with question marks on them in the top right.
+To get started, wait for the game to load, then press the green flag in the top left. After you press that, it will show a backstory for your character, which you can dismiss by pressing anywhere on the message. Now you are in the game and can play freely. For full control and help guides, press E or I to open the inventory. With the inventory open, you can hover your mouse over the two clipboards with question marks on them in the top right. There is also instructions below.
 
 ---
 
@@ -71,6 +71,69 @@ This game supports controllers based on Turbowarp's [Gamepad Support Extension](
 
 - Menu Button (☰ icon)- Enter, Accepts stuff
 
+
+---
+
+## How to Play on a Computer
+
+### Controls on a Computer
+- Arrows or WASD to walk  
+- [Space] — Use the item in your current inventory slot (eat, place, attack)  
+- Click to shoot arrow & spear  
+- Click to interact (trade, chest, furnace…)  
+- [I] or [E] to open inventory & crafting  
+- If out of inventory, press 1, 2, or 3 to change your item  
+- Press space to put item in or take item out of a chest (if it’s open)  
+- To close chests or trades, walk away  
+- [0] to show FPS  
+
+---
+
+### Inventory & Items
+- Hover over an item in your inventory to see what it is and how many you have  
+
+While hovering over an item, press:
+- 1 — Move item to slot 1 (backpack only)  
+- 2 — Move item to slot 2 (backpack only)  
+- 3 — Move item to slot 3 (backpack only)  
+- 4 — Move item to backpack OR equip/unequip armor or shields  
+
+- Scroll to view all inventory items  
+
+- Cold Resistance: prevents death from cold  
+- Heat Resistance: prevents death from heat  
+
+---
+
+### Gameplay Mechanics
+- Axes break wood, trees, and damage animals and monsters  
+- Pickaxes break rocks and furnaces and deal damage to bosses  
+- Spear, shovel, knife, and bow aim at your mouse pointer  
+
+- Shovel harvests plants  
+- Use [Space] with seeds to replant wheat in a garden  
+
+- You can trade with villagers if they are in the village square or sleeping  
+
+- You can break portals with axe, pickaxe, or spear  
+- If you break a portal or chest, press start again to place it again  
+
+- To sleep by a fire: hold nothing, go next to it, and press [Space]  
+- You can cook bacon, crabs, and steak by holding them and clicking the fire  
+
+- Temperature system:  
+  - Blue snowflake = cold  
+  - Red snowflake = hot  
+
+- Eating something with heat resistance gives 2–3 minutes of protection  
+
+---
+
+### Tips & Notes
+- Hover over the volume icon and use arrow keys to change volume  
+- Click the volume icon to mute/unmute music  
+
+- For complaints or questions: sullydux@icloud.com
 
 ---
 
