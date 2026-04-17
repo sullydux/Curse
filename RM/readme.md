@@ -134,6 +134,7 @@ While hovering over an item, press:
 - Click the volume icon to mute/unmute music  
 
 - For complaints or questions: sullydux@icloud.com
+- Game is realeased and has no planned fetures as of realease, other stuff might be added, and there may be bug fixes.
 
 ---
 
