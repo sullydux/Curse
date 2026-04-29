@@ -1,6 +1,6 @@
 # Forsaken Legends: Cursed Isle
 
-Step into a vibrant pixel-art world of adventure, mystery, and danger. Battle powerful bosses, face off against formidable enemies, and befriend unique characters as you explore diverse environments. Delve into hidden caves, uncover ancient secrets, and solve intriguing mysteries. With a rich, immersive world teeming with animals and challenges, your journey will test your skills, wit, and courage at every turn. Will you uncover the truth and conquer the unknown?
+Enter a pixel art realm. Battle powerful bosses, face off against tough enemies, and befriend characters as you journey through diverse environments. Discover hidden caves, uncover the island’s ancient past, and solve its mysteries. With a rich world full of animals and challenges, your adventure will test your skills at every turn. Will you conquer the unknown?
 
 **Official Website:** https://sullydux.github.io/Curse/
 
