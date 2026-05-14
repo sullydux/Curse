@@ -14,6 +14,8 @@ Scratch remixes are allowed and preferred under the following conditions:
 
     3. The remix complies with the Scratch Community Guidelines.
 
+    4. If the remix is packaged and taken off Scratch, it will not be considered a Scratch remix because it is not on Scratch. 
+
 --------------------------------------------------------------------------
 
 Official versions of the game:

@@ -6,11 +6,13 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Developer:** [Sullydux](https://github.com/sullydux)
 
+**Contact Me:** [Go to contact me page](https://sullydux.github.io/sullydux/email.md)
+
 ---
 
 ## How to Get Started
 
-To get started, wait for the game to load, then press the green flag in the top left. After you press that, it will show a backstory for your character, which you can dismiss by pressing anywhere on the message. Now you are in the game and can play freely. For full control and help guides, press E or I to open the inventory. With the inventory open, you can hover your mouse over the two clipboards with question marks on them in the top right. There is also instructions below.
+To get started, wait for the game to load, then press the green flag in the top left. After you press that, it will show a backstory for your character, which you can dismiss by pressing anywhere on the message. Now you are in the game and can play freely. For full control and help guides, press E or I to open the inventory, sometimes called backpack. With the inventory open, you can hover your mouse over the two clipboards with question marks on them in the top right. There is also instructions below.
 
 ---
 
@@ -105,7 +107,7 @@ While hovering over an item, press:
 
 ---
 
-### Gameplay Mechanics
+## Gameplay Mechanics
 - Axes break wood, trees, and damage animals and monsters  
 - Pickaxes break rocks and furnaces and deal damage to bosses  
 - Spear, shovel, knife, and bow aim at your mouse pointer  

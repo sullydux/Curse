@@ -1,210 +1,157 @@
 Forsaken Legends: Cursed Isle
 
-Step into a vibrant pixel-art world of adventure, mystery, and danger. 
-Battle powerful bosses, face off against formidable enemies, and befriend unique characters as you explore diverse environments. 
-Delve into hidden caves, uncover ancient secrets, and solve intriguing mysteries. 
-With a rich, immersive world teeming with animals and challenges, your journey will test your skills, wit, and courage at every turn.
+Enter a pixel art realm. Battle powerful bosses, face off against tough enemies, and befriend characters as you journey through diverse environments. Discover hidden caves, uncover the island’s ancient past, and solve its mysteries. With a rich world full of animals and challenges, your adventure will test your skills at every turn. Will you conquer the unknown?
 
-Official Website:
-https://sullydux.github.io/Curse/
+Official Website: https://sullydux.github.io/Curse/
 
-Developer:
-Sullydux (https://github.com/sullydux)
+Developer: Sullydux  https://github.com/sullydux
 
--------------------------------------------------------------------------------
+Contact Me: https://sullydux.github.io/sullydux/email.md
 
-HOW TO GET STARTED
+---
 
-Wait for the game to load, then press the green flag in the top left. 
-After pressing it, a backstory will appear. Click anywhere on the message to dismiss it. 
-You are now in the game and can play freely.
+## How to Get Started
 
-For full controls and help guides:
-- Press E or I to open inventory
-- Hover over the two clipboards with question marks in the top right
-- Instructions below too
+To get started, wait for the game to load, then press the green flag in the top left. After you press that, it will show a backstory for your character, which you can dismiss by pressing anywhere on the message. Now you are in the game and can play freely. For full control and help guides, press E or I to open the inventory, sometimes called backpack. With the inventory open, you can hover your mouse over the two clipboards with question marks on them in the top right. There is also instructions below.
 
--------------------------------------------------------------------------------
+---
 
-SAVING (WEBSITE / DOWNLOADED VERSION)
+## Notes on Saving Game on the Website and Download From the Website
 
-- Auto-saves every 1.5 minutes
-- Press P to save manually (20-second cooldown)
+On the downloaded version from the website, the game saves automatically every one and a half minutes, or you can press P to save manually (20-second cooldown between manual saves). When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game.
 
-SAVE DATA:
-- When you download your save, you get a string of numbers copied to your clipboard
-- You can place this string in a document, list, sticky note, or anywhere
+When the game saves, the save data goes to local storage in your browser, so you do not have to place the save data in a list, unless you want the safety of that. When you close and reopen the tab, the game will load any stored save data. If you hit reset in the game, your save will also be reset. If you change browsers or devices, your save data WILL NOT transfer. If you clear site data or browsing data, your save WILL BE lost.
 
-USING SAVE DATA:
-- Lets you move between browsers and devices without losing progress
+---
 
-LOCAL STORAGE DETAILS:
-- Game automatically saves to browser local storage
-- You do NOT need to manually store saves unless you want a backup
+## Controller Support
 
-IMPORTANT:
-- Closing and reopening the tab keeps your save
-- Pressing reset in-game deletes your save
-- Changing browsers/devices WILL NOT transfer save data automatically
-- Clearing browser/site data WILL delete your save
+This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). The controller configuration is listed below and is not changeable. To connect a controller either plug it into your devive or connect it to your device with Bluetooth. Then you have to interact with the game, pressing start will work, for the game to notice the contoller. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
 
--------------------------------------------------------------------------------
+See config.png image in this file for the config photo
 
-CONTROLLER SUPPORT
+**Controller Buttons:**
+- A — 1, Sets current item to first slot
 
-This game supports controllers using Turbowarp’s Gamepad Support Extension.
+- B — 2, Sets current item to second slot
 
-HOW TO CONNECT:
-- Plug in controller OR connect via Bluetooth
-- Press a button (like Start) after opening the game so it is detected
+- X — 3, Sets current item to third slot
 
-NOTES:
-- Chests do not work on controller (not required to beat the game)
-- Saving to external documents requires a keyboard
-- Tested on Xbox Series S controller, but most controllers should work
+- Y — 4, Moves item to backpack or equips armor and shield
 
-CONFIG IMAGE:
-The controller configuration (config.png) is included in the downloaded files.
+- Left Bumper (LB) — E, Open and closes inventory
 
-CONTROLLER BUTTONS:
+- Right Bumper (RB) — P, Manually saves the game(20 second cool down)
 
-A — 1, Set item to slot 1  
-B — 2, Set item to slot 2  
-X — 3, Set item to slot 3  
-Y — 4, Move item to backpack OR equip armor/shield  
+- Left Trigger (LT) — Space, Many operations
 
-Left Bumper (LB) — E, Open/close inventory  
-Right Bumper (RB) — P, Manual save (20-second cooldown)  
+- Right Trigger (RT) — Click, Many operations
 
-Left Trigger (LT) — Space, many actions  
-Right Trigger (RT) — Click, many actions  
+- Left Stick - WASD, Move
 
-Left Stick — WASD movement  
-Right Stick — Cursor (aim/interact)  
+- Right Stick - Cursor, Aim and interact
 
-Left Stick (Press) — E (secondary)  
-Right Stick (Press) — Click (secondary)  
+- Left Stick (Press) — E, Secondary
 
-D-Pad Up — Up Arrow (secondary move)  
-D-Pad Down — Down Arrow (secondary move)  
-D-Pad Left — Left Arrow (secondary move + volume control)  
-D-Pad Right — Right Arrow (secondary move + volume control)  
+- Right Stick (Press) — Click, Secondary
 
-View Button (⧉) — R, reset screen  
-Menu Button (☰) — Enter, confirm actions  
+- D-Pad Up — Up Arrow, Secondary move
 
--------------------------------------------------------------------------------
+- D-Pad Down — Down Arrow, Secondary move
 
-HOW TO PLAY ON A COMPUTER
+- D-Pad Left — Left Arrow, Secondary move and volume control(see a help menu in game)
 
-CONTROLS:
+- D-Pad Right — Right Arrow, Secondary move and volume control(see a help menu in game)
 
-- WASD or Arrow Keys — Move  
-- Space — Use current item (eat, place, attack)  
-- Click — Shoot arrow/spear  
-- Click — Interact (trade, chest, furnace, etc.)  
-- I or E — Open inventory & crafting  
+- View Button (⧉ icon)- R, Takes to reset game screen
 
-OUTSIDE INVENTORY:
-- Press 1, 2, or 3 to switch items  
+- Menu Button (☰ icon)- Enter, Accepts stuff
 
-CHESTS:
-- Press Space to move items in/out  
-- Walk away to close  
 
-OTHER:
-- Press 0 to show FPS  
+---
 
---------------------------------------------------
+## How to Play on a Computer
 
-INVENTORY & ITEMS
+### Controls on a Computer
+- Arrows or WASD to walk  
+- [Space] — Use the item in your current inventory slot (eat, place, attack)  
+- Click to shoot arrow & spear  
+- Click to interact (trade, chest, furnace…)  
+- [I] or [E] to open inventory & crafting  
+- If out of inventory, press 1, 2, or 3 to change your item  
+- Press space to put item in or take item out of a chest (if it’s open)  
+- To close chests or trades, walk away  
+- [0] to show FPS  
 
-- Hover over an item to see what it is and how many you have  
+---
 
-WHILE HOVERING:
-1 — Move item to slot 1 (backpack only)  
-2 — Move item to slot 2 (backpack only)  
-3 — Move item to slot 3 (backpack only)  
-4 — Move item to backpack OR equip/unequip armor/shield  
+### Inventory & Items
+- Hover over an item in your inventory to see what it is and how many you have  
+
+While hovering over an item, press:
+- 1 — Move item to slot 1 (backpack only)  
+- 2 — Move item to slot 2 (backpack only)  
+- 3 — Move item to slot 3 (backpack only)  
+- 4 — Move item to backpack OR equip/unequip armor or shields  
 
 - Scroll to view all inventory items  
 
-RESISTANCE:
-- Cold Resistance — prevents death from cold  
-- Heat Resistance — prevents death from heat  
+- Cold Resistance: prevents death from cold  
+- Heat Resistance: prevents death from heat  
 
---------------------------------------------------
+---
 
-GAMEPLAY MECHANICS
+## Gameplay Mechanics
+- Axes break wood, trees, and damage animals and monsters  
+- Pickaxes break rocks and furnaces and deal damage to bosses  
+- Spear, shovel, knife, and bow aim at your mouse pointer  
 
-TOOLS:
-- Axe — break wood/trees and damage enemies  
-- Pickaxe — break rocks/furnaces and damage bosses  
-- Spear, shovel, knife, bow — aim with mouse  
-
-FARMING:
 - Shovel harvests plants  
-- Use Space with seeds to replant wheat  
+- Use [Space] with seeds to replant wheat in a garden  
 
-TRADING:
-- Villagers must be in the village square or sleeping  
+- You can trade with villagers if they are in the village square or sleeping  
 
-STRUCTURES:
-- Portals can be broken with axe, pickaxe, or spear  
-- Chests can also be broken  
-- After breaking a portal or chest, press start again to place it back  
+- You can break portals with axe, pickaxe, or spear  
+- If you break a portal or chest, press start again to place it again  
 
-COOKING:
-- Hold bacon, crabs, or steak and click a fire  
+- To sleep by a fire: hold nothing, go next to it, and press [Space]  
+- You can cook bacon, crabs, and steak by holding them and clicking the fire  
 
-SLEEP:
-- Hold nothing, stand next to a fire, press Space  
+- Temperature system:  
+  - Blue snowflake = cold  
+  - Red snowflake = hot  
 
-TEMPERATURE SYSTEM:
-- Blue snowflake = cold  
-- Red snowflake = hot  
-- Heat resistance lasts about 2–3 minutes  
+- Eating something with heat resistance gives 2–3 minutes of protection  
 
---------------------------------------------------
+---
 
-TIPS & NOTES
-
+### Tips & Notes
 - Hover over the volume icon and use arrow keys to change volume  
 - Click the volume icon to mute/unmute music  
 
--------------------------------------------------------------------------------
+- For complaints or questions: sullydux@icloud.com
+- Game is realeased and has no planned fetures as of realease, other stuff might be added, and there may be bug fixes.
 
-CREDITS
+---
 
-PLATFORMS:
-- Scratch — Used to code and share the game  
-- Turbowarp — Used to package and run the game on a website  
+## Credits
 
-ASSETS:
-- BlackFang (pixeljoint.com) — Explosion GIF  
+- Scratch — For letting me code and share the game
+- Turbowarp — For letting me code and package the game to let it be on a website
+- BlackFang on pixeljoint.com — Explosion GIF
+- 'Menu Music' on pixabay — Day time & inventory music
+- 'Glitch in the Dark' on pixabay — Night time & caves music
+- 'Raining Village - Video Game Theme' on pixabay — Village music
+- 'Fast Paced Boss Battle' on pixabay — Boss fight music
+- 'Dragon Roar) High intensity' on pixabay.com — Basaltor's roar
 
-MUSIC (Pixabay):
-- "Menu Music" — Daytime & inventory music  
-- "Glitch in the Dark" — Nighttime & caves music  
-- "Raining Village - Video Game Theme" — Village music  
-- "Fast Paced Boss Battle" — Boss fight music  
-- "Dragon Roar (High Intensity)" — Basaltor’s roar  
+---
 
--------------------------------------------------------------------------------
+## Legal
 
-CONTACT:
-sullydux@icloud.com
+This project is licensed under the terms found here:
 
--------------------------------------------------------------------------------
-
-LEGAL
-
-This project is licensed under:
 https://sullydux.github.io/Curse/LICENSE.txt
 
---------------------------------------------------
 
-NAME CHANGE
-
-March 27, 2026:
-Curse of the Forsaken Isle → Forsaken Legends: Cursed Isle
+March 27th, 2026, the name changed from Curse of the Forsaken Isle to Forsaken Legends: Cursed Isle
