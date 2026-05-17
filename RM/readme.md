@@ -8,6 +8,8 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Contact Me:** [Go to contact me page](https://sullydux.github.io/sullydux/email.md)
 
+**Itch.io:** [Play on Itch.io](https://sullydux.itch.io/curse)
+
 ---
 
 ## How to Get Started
