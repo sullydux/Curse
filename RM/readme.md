@@ -10,7 +10,7 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Itch.io:** [Play on Itch.io](https://sullydux.itch.io/curse)
 
-**Download:** [App](https://github.com/sullydux/Curse/blob/main/Forsaken%20Legends%20Cursed%20Isle.zip) for MacOS (Made on MacOS Tahoe 26.5)
+**Download:** [App](https://sullydux.github.io/Curse/MacOS/) for MacOS (Made on MacOS Tahoe 26.5)
 
 ---
 
@@ -42,7 +42,7 @@ On the downloaded app version, to save go to your inventory, press E or I, and h
 
 ## Notes for obtaining MacOS app
 
-Use [the link](https://github.com/sullydux/Curse/blob/main/Forsaken%20Legends%20Cursed%20Isle.zip) above to download the zip file then open it on your desktop. Open the app that unzips from it. It will then say something about the fact that can't scan for malware. It will give you two options: "Move to Trash" or "Done", hit done. Then go to System Settings -> Privacy & Security. Scroll until you see "'Forsaken Legends Cursed Isle' was blocked to protect your Mac." Hit open anyway, then again when the window shows up, and follow the steps it shows from there.
+Use [the link](https://sullydux.github.io/Curse/MacOS/) above to download the zip file then open it on your desktop. Open the app that unzips from it. It will then say something about the fact that can't scan for malware. It will give you two options: "Move to Trash" or "Done", hit done. Then go to System Settings -> Privacy & Security. Scroll until you see "'Forsaken Legends Cursed Isle' was blocked to protect your Mac." Hit open anyway, then again when the window shows up, and follow the steps it shows from there.
 
 ---
 
