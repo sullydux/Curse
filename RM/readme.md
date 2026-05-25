@@ -26,9 +26,15 @@ It saves automatically every three minutes or you can press P to save(20 second 
 
 ---
 
-## Notes on Saving Game on the Website and Download From the Website
+## Notes on Saving Game on the Website and HTML Download From the Website
 
-On the downloaded version from the website, the game saves automatically every one and a half minutes, or you can press P to save manually (20-second cooldown between manual saves). When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game.
+On the downloaded app version, to save go to your inventory, press E or I, and hit the save button. From there you follow instructions to get your save code. When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game save. The app also has three built in save slots so you just have to paste into them and it will store your save, as long as you dont change device, user, or reinstall the app. To use the save copy it and in the inventory you can paste it and it will load.
+
+---
+
+## Notes on Saving Game on the MacOS App
+
+On the app version from the website, the game saves automatically every one and a half minutes, or you can press P to save manually (20-second cooldown between manual saves). When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game.
 
 When the game saves, the save data goes to local storage in your browser, so you do not have to place the save data in a list, unless you want the safety of that. When you close and reopen the tab, the game will load any stored save data. If you hit reset in the game, your save will also be reset. If you change browsers or devices, your save data WILL NOT transfer. If you clear site data or browsing data, your save WILL BE lost. Also, when I update it, it might become lost so you should use this only as a last resort.
 
