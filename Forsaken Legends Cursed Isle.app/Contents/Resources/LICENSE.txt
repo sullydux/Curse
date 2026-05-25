@@ -1,0 +1,65 @@
+Copyright © 2025–2026 Sullydux (GitHub). All rights reserved except as expressly permitted in this license.
+Effective November 26, 2025.
+
+Permission is granted to play the game and to share links to its official versions (GitHub, TurboWarp, or Scratch) for non-commercial, personal use only.
+
+You may not copy, reproduce, redistribute, upload, embed in another website or platform, or share any part of the game—including its assets, source code, or packaged files—in whole or in part, without prior written, email or otherwise, permission from Sullydux.
+Except as permitted below for Scratch remixes, you may not create, distribute, or publish modifications, forks, or derivative works based on the game without prior written permission.
+
+Use of the game is at your own risk. To the fullest extent permitted by law, Sullydux is not liable for any damages, losses, or other consequences arising from using, downloading, installing, modifying, or distributing the game, including but not limited to data loss, hardware damage, or software damage.
+
+Scratch remixes are allowed and preferred under the following conditions:
+
+    1. Clear credit is given to “Sullydux” in the Instructions and/or Credits section of the project.
+
+    2. The remix must remain recognizably based on the original game and not repurpose its assets or code into a substantially different or unrelated project.
+
+    3. The remix complies with the Scratch Community Guidelines.
+
+    4. Any version exported, packaged, or distributed  off of the Scratch platform is not considered a Scratch remix and is subject to the full restrictions of this license. 
+
+--------------------------------------------------------------------------
+
+Official versions of the game:
+
+Scratch:
+https://scratch.mit.edu/projects/963768137/
+
+Website:
+https://sullydux.github.io/Curse/
+
+Alternate website:
+https://sites.google.com/view/cursed-isle
+
+Itch.io:
+https://sullydux.itch.io/curse
+
+--------------------------------------------------------------------------
+
+Third-Party Notices
+
+The game was packaged into HTML using TurboWarp Packager:
+https://packager.turbowarp.org/
+
+TurboWarp Packager is Copyright (C) 2021-2024 Thomas Weber and is licensed under the Mozilla Public License 2.0:
+https://www.mozilla.org/MPL/2.0/
+
+The project also includes components from Scratch:
+https://scratch.mit.edu/
+
+Scratch components are Copyright (c) 2016, Massachusetts Institute of Technology. All rights reserved. They are provided under the redistribution terms included in game.html.
+
+
+The full required copyright notice, license terms, and disclaimers for TurboWarp and Scratch are included in the game.html file.
+Neither Scratch, MIT, TurboWarp, Thomas Weber, nor their contributors endorse this project.
+
+All original game content—including art, code, writing, and assets—created by Sullydux remains licensed under this license unless otherwise noted in credits.
+Third-party assets are subject to their respective licenses.
+
+--------------------------------------------------------------------------
+
+Credits:
+https://sullydux.github.io/Curse/RM/
+
+U.S. Copyright information:
+https://www.copyright.gov/help/faq/faq-general.html

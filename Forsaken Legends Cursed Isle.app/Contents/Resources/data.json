@@ -1,0 +1,17 @@
+{
+  "slot1": {
+    "name": "Slot 1",
+    "value": ""
+  },
+  "slot2": {
+    "name": "Slot 2",
+    "value": ""
+  },
+  "slot3": {
+    "name": "Slot 3",
+    "value": ""
+  },
+  "Version": {
+    "value": "2.18.62"
+  }
+}
