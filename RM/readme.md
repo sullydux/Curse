@@ -10,6 +10,8 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Itch.io:** [Play on Itch.io](https://sullydux.itch.io/curse)
 
+**Download:** [App](https://drive.proton.me/urls/D7AWYSQC58#n7ykI3ogYdIK) for MacOS (Made on MacOS Tahoe 26.5)
+
 ---
 
 ## How to Get Started
@@ -28,7 +30,7 @@ It saves automatically every three minutes or you can press P to save(20 second 
 
 On the downloaded version from the website, the game saves automatically every one and a half minutes, or you can press P to save manually (20-second cooldown between manual saves). When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game.
 
-When the game saves, the save data goes to local storage in your browser, so you do not have to place the save data in a list, unless you want the safety of that. When you close and reopen the tab, the game will load any stored save data. If you hit reset in the game, your save will also be reset. If you change browsers or devices, your save data WILL NOT transfer. If you clear site data or browsing data, your save WILL BE lost. Also, when I update it, it gets lost so you should use this only as a last resort.
+When the game saves, the save data goes to local storage in your browser, so you do not have to place the save data in a list, unless you want the safety of that. When you close and reopen the tab, the game will load any stored save data. If you hit reset in the game, your save will also be reset. If you change browsers or devices, your save data WILL NOT transfer. If you clear site data or browsing data, your save WILL BE lost. Also, when I update it, it might become lost so you should use this only as a last resort.
 
 ---
 
@@ -134,10 +136,12 @@ While hovering over an item, press:
 ---
 
 ### Tips & Notes
-- Hover over the volume icon and use arrow keys to change volume  
-- Click the volume icon to mute/unmute music  
+- Hover over the volume icon and use arrow keys to change volume
 
-- For complaints or questions: sullydux@icloud.com
+- Click the volume icon to mute/unmute music
+
+- For complaints or questions: [contact me here](https://sullydux.github.io/sullydux/email.md)
+
 - Game is realeased and has no planned fetures as of realease, other stuff might be added, and there may be bug fixes.
 
 ---
