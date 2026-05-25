@@ -10,7 +10,7 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Itch.io:** [Play on Itch.io](https://sullydux.itch.io/curse)
 
-**Download:** [App](https://sullydux.github.io/Curse/MacOS/) for MacOS (Made on MacOS Tahoe 26.5)
+**Download:** [App](https://sullydux.github.io/Curse/MacOS/) for MacOS
 
 ---
 
