@@ -158,6 +158,15 @@ While hovering over an item, press:
 
 ---
 
+## Problem support
+- If there is a low frame rate press the start button again. If still low frame rate then you probaly have too many items, I wouldn't think you'd get there though because my estimates say 1000+.
+
+- If there is a error message when loading a save you either entered a save from a newer version with incompatable saves or it was edited/invalid.
+
+- For any other problems contact me.
+
+---
+
 ## Credits
 
 - Scratch — For letting me code and share the game
