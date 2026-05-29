@@ -36,13 +36,13 @@ When the game saves, the save data goes to local storage in your browser, so you
 
 ## Notes on Saving Game on the MacOS App
 
-On the downloaded app version, to save go to your inventory, press E or I, and hit the save button. From there you follow instructions to get your save code. When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game save. The app also has three built in save slots so you just have to paste into them and it will store your save, as long as you dont change device, user, or reinstall the app. To use the save copy it and in the inventory you can paste it and it will load.
+On the downloaded app version, to save go to your inventory, press E or I, and hit the save button. From there you follow instructions to get your save code. When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game save. The app also has three built in save slots so you just have to paste into them and it will store your save, as long as you dont change device or user. To use the save copy it and in the inventory you can paste it and it will load. When/if you reinstall it should resore your old saves, because it is stored in application support folder.
 
 ---
 
 ## Notes for obtaining MacOS app
 
-Use [the link](https://sullydux.github.io/Curse/MacOS/) above to download the zip file then open it on your desktop. Open the app that unzips from it. It will then say something about the fact that can't scan for malware. It will give you two options: "Move to Trash" or "Done", hit done. Then go to System Settings -> Privacy & Security. Scroll until you see "'Forsaken Legends Cursed Isle' was blocked to protect your Mac." Hit open anyway, then again when the window shows up, and follow the steps it shows from there.
+Use [this link](https://sullydux.github.io/Curse/MacOS/) to download the zip file then open it on your desktop. Open the app that unzips from it. It will then say something about the fact that can't scan for malware. It will give you two options: "Move to Trash" or "Done", hit done. Then go to System Settings -> Privacy & Security. Scroll until you see "'Forsaken Legends Cursed Isle' was blocked to protect your Mac." Hit open anyway, then again when the window shows up, and follow the steps it shows from there.
 
 ---
 
