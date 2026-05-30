@@ -10,6 +10,17 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-NNFNXMSV9R');
+
+    // Track MacOS app downloads
+    function trackDownload() {
+      gtag('event', 'macos_app_download', {
+        'event_category': 'engagement',
+        'event_label': 'MacOS App Download',
+        'timestamp': new Date().toISOString(),
+        'platform': 'MacOS'
+      });
+      console.log('Download event tracked: MacOS app download initiated');
+    }
   </script>
 
   <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -230,7 +241,7 @@
 
         <div class="download-section">
           <span class="download-label">Ready to explore the cursed isle?</span>
-          <a class="download-btn" href="MacOS_App.zip" download="Forsaken-Legends-MacOS.zip">Download for MacOS</a>
+          <a class="download-btn" href="MacOS_App.zip" download="Forsaken-Legends-MacOS.zip" onclick="trackDownload()">Download for MacOS</a>
         </div>
       </div>
     </section>

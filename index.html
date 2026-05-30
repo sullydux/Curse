@@ -10,6 +10,17 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-NNFNXMSV9R');
+
+  // Track zip file downloads
+  function trackZipDownload() {
+    gtag('event', 'zip_download', {
+      'event_category': 'engagement',
+      'event_label': 'Game ZIP Download',
+      'timestamp': new Date().toISOString(),
+      'file_type': 'zip'
+    });
+    console.log('Download event tracked: ZIP file download initiated');
+  }
 </script>
 
 
@@ -329,7 +340,7 @@
         <a href="https://sullydux.github.io/sullydux/" target="_blank" rel="noopener">My other projects</a>
       </div>
       <div class="footer-line actions">
-        <a class="download-btn" href="game.zip" download="game.zip">Download Game</a>
+        <a class="download-btn" href="game.zip" download="game.zip" onclick="trackZipDownload()">Download Game</a>
         <a class="download-btn" href="https://forms.gle/juuJmwzEAf9mGriW6" target="_blank" rel="noopener">Rate the Game</a>
       </div>
     </footer>
