@@ -1,7 +1,7 @@
 Copyright © 2025–2026 Sullydux (GitHub). All rights reserved except as expressly permitted in this license.
 Effective November 26, 2025.
 
-Permission is granted to play the game and to share links to its official versions (GitHub, TurboWarp, or Scratch) for non-commercial, personal use only.
+Permission is granted to play the game and to share links to its official versions (specified below) for non-commercial, personal use only.
 
 You may not copy, reproduce, redistribute, upload, embed in another website or platform, or share any part of the game—including its assets, source code, or packaged files—in whole or in part, without prior written, email or otherwise, permission from Sullydux.
 Except as permitted below for Scratch remixes, you may not create, distribute, or publish modifications, forks, or derivative works based on the game without prior written permission.
