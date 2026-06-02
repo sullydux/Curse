@@ -1,12 +1,16 @@
-Forsaken Legends: Cursed Isle
+# Forsaken Legends: Cursed Isle
 
 Enter a pixel art realm. Battle powerful bosses, face off against tough enemies, and befriend characters as you journey through diverse environments. Discover hidden caves, uncover the island’s ancient past, and solve its mysteries. With a rich world full of animals and challenges, your adventure will test your skills at every turn. Will you conquer the unknown?
 
-Official Website: https://sullydux.github.io/Curse/
+**Official Website:** https://sullydux.github.io/Curse/
 
-Developer: Sullydux  https://github.com/sullydux
+**Developer:** https://github.com/sullydux
 
-Contact Me: https://sullydux.github.io/sullydux/email.md
+**Contact Me:** https://sullydux.github.io/sullydux/email.md
+
+**Itch.io:** https://sullydux.itch.io/curse
+
+**Download for MacOS:** https://sullydux.github.io/Curse/MacOS/
 
 ---
 
@@ -16,11 +20,29 @@ To get started, wait for the game to load, then press the green flag in the top 
 
 ---
 
-## Notes on Saving Game on the Website and Download From the Website
+## Notes on Saving Game on Scratch and Turbowarp
 
-On the downloaded version from the website, the game saves automatically every one and a half minutes, or you can press P to save manually (20-second cooldown between manual saves). When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game.
+It saves automatically every three minutes or you can press P to save(20 second cooldown between manual saves). When you download your save, you get a string of numbers in your copy & paste clipboard. Place it into a list, document, sticky note, or wherever you like. The game does not internally reload save data, so you have to paste the save back into the game.
 
-When the game saves, the save data goes to local storage in your browser, so you do not have to place the save data in a list, unless you want the safety of that. When you close and reopen the tab, the game will load any stored save data. If you hit reset in the game, your save will also be reset. If you change browsers or devices, your save data WILL NOT transfer. If you clear site data or browsing data, your save WILL BE lost.
+---
+
+## Notes on Saving Game on the Website and HTML Download From the Website
+
+On this version, the game saves automatically every one and a half minutes, or you can press P to save manually (20-second cooldown between manual saves). When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game.
+
+When the game saves, the save data goes to local storage in your browser, so you do not have to place the save data in a list, unless you want the safety of that. When you close and reopen the tab, the game will load any stored save data. If you hit reset in the game, your save will also be reset. If you change browsers or devices, your save data WILL NOT transfer. If you clear site data or browsing data, your save WILL BE lost. Also, when I update it, it might become lost so you should use this only as a last resort.
+
+---
+
+## Notes on Saving Game on the MacOS App
+
+On the downloaded app version, to save go to your inventory, press E or I, and hit the save button. From there you follow instructions to get your save code. When you download your save, you get a string of numbers in your copy-and-paste clipboard. Place it into a list, document, sticky note, or wherever you like. You can use this string of numbers to move browsers and devices without losing your game save. The app also has three built in save slots so you just have to paste into them and it will store your save, as long as you dont change device or user. To use the save copy it and in the inventory you can paste it and it will load. When/if you reinstall it should resore your old saves, because it is stored in application support folder.
+
+---
+
+## Notes for obtaining MacOS app
+
+Use https://sullydux.github.io/Curse/MacOS/ to download the zip file then open it on your desktop. Open the app that unzips from it. It will then say something about the fact that can't scan for malware. It will give you two options: "Move to Trash" or "Done", hit done. Then go to System Settings -> Privacy & Security. Scroll until you see "'Forsaken Legends Cursed Isle' was blocked to protect your Mac." Hit open anyway, then again when the window shows up, and follow the steps it shows from there.
 
 ---
 
@@ -28,7 +50,7 @@ When the game saves, the save data goes to local storage in your browser, so you
 
 This game supports controllers based on Turbowarp's [Gamepad Support Extension](https://turbowarp.org/addons#gamepad). The controller configuration is listed below and is not changeable. To connect a controller either plug it into your devive or connect it to your device with Bluetooth. Then you have to interact with the game, pressing start will work, for the game to notice the contoller. With a controller, everything should work except for chests (which are not vital to the game) and saving save data to an external document or list, but that can work if you have a keyboard. The game has been tested on a wireless Xbox Series S controller, but according to Turbowarp, any compatible controller can work.
 
-See config.png image in this file for the config photo
+Check image for controller button layout, also here too:
 
 **Controller Buttons:**
 - A — 1, Sets current item to first slot
@@ -126,17 +148,21 @@ While hovering over an item, press:
 ---
 
 ### Tips & Notes
-- Hover over the volume icon and use arrow keys to change volume  
-- Click the volume icon to mute/unmute music  
+- Hover over the volume icon and use arrow keys to change volume
 
-- For complaints or questions: sullydux@icloud.com
+- Click the volume icon to mute/unmute music
+
+- For complaints or questions: https://sullydux.github.io/sullydux/email.md
+
 - Game is realeased and has no planned fetures as of realease, other stuff might be added, and there may be bug fixes.
 
 ---
 
 ## Problem support
 - If there is a low frame rate press the start button again. If still low frame rate then you probaly have too many items, I wouldn't think you'd get there though because my estimates say 1000+.
+
 - If there is a error message when loading a save you either entered a save from a newer version with incompatable saves or it was edited/invalid.
+
 - For any other problems contact me.
 
 ---
