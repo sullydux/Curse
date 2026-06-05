@@ -14,6 +14,12 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 ---
 
+## Praise
+
+You've created a truly enchanting world with a captivating atmosphere, and knowing you did it under the strict limitations of the graphics engine makes it even more impressive.  --  By [Naldopzzz on play2review](https://play2review.com/u/Naldopzzz)
+
+---
+
 ## How to Get Started
 
 To get started, wait for the game to load, then press the green flag in the top left. After you press that, it will show a backstory for your character, which you can dismiss by pressing anywhere on the message. Now you are in the game and can play freely. For full control and help guides, press E or I to open the inventory, sometimes called backpack. With the inventory open, you can hover your mouse over the two clipboards with question marks on them in the top right. There is also instructions below.
