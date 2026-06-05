@@ -2,7 +2,7 @@
 
 Enter a pixel art realm. Battle powerful bosses, face off against tough enemies, and befriend characters as you journey through diverse environments. Discover hidden caves, uncover the island’s ancient past, and solve its mysteries. With a rich world full of animals and challenges, your adventure will test your skills at every turn. Will you conquer the unknown?
 
-**Official Website:** https://sullydux.github.io/Curse/
+**Official Website:** https://sullydux.github.io/Curse/ click to play
 
 **Developer:** [Sullydux](https://github.com/sullydux)
 
