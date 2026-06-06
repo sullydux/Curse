@@ -10,7 +10,7 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Itch.io:** [Play on Itch.io](https://sullydux.itch.io/curse)
 
-**Download:** [App](https://sullydux.github.io/Curse/MacOS/) for MacOS
+**Download:** [App for MacOS](https://sullydux.github.io/Curse/MacOS/)
 
 **Updates:** [Next update info](https://sullydux.github.io/Curse/Updates/)
 
@@ -18,7 +18,7 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 ## Praise
 
-You've created a truly enchanting world with a captivating atmosphere, and knowing you did it under the strict limitations of the graphics engine makes it even more impressive.  --  By [Naldopzzz on play2review](https://play2review.com/u/Naldopzzz)
+"You've created a truly enchanting world with a captivating atmosphere, and knowing you did it under the strict limitations of the graphics engine makes it even more impressive."  --  By [Naldopzzz on play2review](https://play2review.com/u/Naldopzzz)
 
 ---
 
