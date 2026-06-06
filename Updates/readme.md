@@ -1,6 +1,5 @@
 # Forsaken Legends: Cursed Isle Updates
 
----
 
 ## Current version: 2.20.62
 

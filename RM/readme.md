@@ -12,6 +12,8 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Download:** [App](https://sullydux.github.io/Curse/MacOS/) for MacOS
 
+**Updates:** [Next update info](https://sullydux.github.io/Curse/Updates/)
+
 ---
 
 ## Praise
