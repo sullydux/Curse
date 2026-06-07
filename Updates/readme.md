@@ -7,7 +7,7 @@ Released: June 2, 2026
 
 ---
 
-## Newest Version in Dev: 2.21.63
+## Newest Version in Dev: 2.21.62
 
 I will add:
 
@@ -22,10 +22,11 @@ I will add:
   - Sleep while holding any non-food item 
 - Armor fitting
   - Armor will fit when zoom out
+- Pigs, Cows, and Zombies will let user know when hit
 
 ---
 
-## How I update
+## How I Make Update Versions
 
 I use Semantic Versioning which is x.y.z
 
