@@ -18,7 +18,7 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 ## Praise
 
-"You've created a truly enchanting world with a captivating atmosphere, and knowing you did it under the strict limitations of the graphics engine makes it even more impressive."  --  By [Naldopzzz on play2review](https://play2review.com/u/Naldopzzz)
+"The game instantly hooks the player with its charming, nostalgic 16-bit pixel art and a highly immersive atmosphere that perfectly captures the magic of classic top-down adventure games. What truly sets it apart is its compelling environmental storytelling, driven by discoverable diaries regarding an ancient dwarf civilization that give the survival mechanics a deeper narrative purpose, alongside an interactive world where players can freely forage, explore villages, and loot chests."  --  By [Naldopzzz on play2review](https://play2review.com/u/Naldopzzz)
 
 ---
 
