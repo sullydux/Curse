@@ -6,7 +6,7 @@ Enter a pixel art realm. Battle powerful bosses, face off against tough enemies,
 
 **Developer:** [Sullydux](https://github.com/sullydux)
 
-**Contact Me:** [Go to contact me page](https://sullydux.github.io/sullydux/email.md)
+**Contact Me:** [Go to contact me page](https://sullydux.github.io/sullydux/email.html)
 
 **Itch.io:** [Play on Itch.io](https://sullydux.itch.io/curse)
 
