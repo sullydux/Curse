@@ -1,28 +1,15 @@
 # Forsaken Legends: Cursed Isle Updates
 
 
-## Current version: 2.20.62
+## Current version: 2.21.63
 
-Released: June 2, 2026
+Released: June 11, 2026
 
 ---
 
-## Newest Version in Dev: 2.21.62
+## Newest Version in Dev: #.#.#
 
-I will add:
-
-- Dodge
-  - [Q] key
-  - Fast enemy evasion with small hunger drain
-- Better inventory
-  - More player readable for wording
-  - Shield and armor responding banner to equips and unequips
-  - Crafting lets user put in item name or entire recipy to craft
-- Campfire
-  - Sleep while holding any non-food item 
-- Armor fitting
-  - Armor will fit when zoom out
-- Pigs, Cows, and Zombies will let user know when hit
+I have no planned updates. Contact me to request an update.
 
 ---
 
